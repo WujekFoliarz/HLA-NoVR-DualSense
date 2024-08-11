@@ -1,5 +1,7 @@
 Download this: https://github.com/WujekFoliarz/DualSenseY/releases
 
+My discord: wujek_foliarz
+
 1. Paste files from win64.zip to game\bin\win64
 2. Launch DualSenseY
 3. Go to controller emulation tab
